@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FaceReco</string>
+    <string name="title_activity_object_tracking">ObjectTrackingActivity</string>
 </resources>
